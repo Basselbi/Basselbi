@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;🎓 ETS Grad\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently interested in VR and Metaverse technologies.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently interested in VR and Metaverse technologies as a hobby.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2009 with 10+ years of experience in enterprise wide software development.\
 &nbsp;&nbsp;&nbsp;:maple_leaf: &nbsp;Living in Montreal Canada :maple_leaf:
 
