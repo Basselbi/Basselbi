@@ -9,7 +9,7 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Senior Tech consultant at [Coveo](https://www.coveo.com/en)  \
-&nbsp;&nbsp;&nbsp;🎓 ETS Grad\
+&nbsp;&nbsp;&nbsp;🎓 ÉTS Grad ⚙️The Engineering Factory⚙️ \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently interested in VR and Metaverse technologies as a hobby.\
