@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently interested in VR and Metaverse technologies as a hobby.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2009 with 10+ years of experience in enterprise wide software development.\
-&nbsp;&nbsp;&nbsp;:maple_leaf: &nbsp;Living in Montreal Canada :maple_leaf:
+&nbsp;&nbsp;&nbsp;:maple_leaf: &nbsp;Montreal Canada :maple_leaf:
 
 <p align="center">
   <a href="mailto:belbizri@gmail.com?subject=Olá%20MrBass%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
