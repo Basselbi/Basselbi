@@ -31,7 +31,7 @@
 <hr/>
 
 <details open='true' >
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><h1>:computer: &nbsp;Main tech knowledge</h1></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
@@ -103,7 +103,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 -->
 
 <details open='true' >
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><h1>:brain: &nbsp;Other knowledge, always learning</h1></summary>
   <br/>
 
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
@@ -141,7 +141,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 <details open='true'>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><h1>:gear: &nbsp;GitHub Statistics</h1></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Basselbi&hide_border=true&theme=blue-green" />
